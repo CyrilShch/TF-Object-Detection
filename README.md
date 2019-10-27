@@ -1,8 +1,8 @@
 # TF-Object-Detection
 
-**Firstly**, I have tried to implement Mixed Style Transfer, applying a mask and transfer the two styles to different parts of the picture.
+**Firstly**, I have tried to implement Style Transfer, classify FashinMNIST using CNN and CIFAR10.
 
-The results and detailed descriptions of implementation are presented in tensorflow_mixed_transfer_style_masked notebook.
+The results and detailed descriptions of implementation are presented in StyleTransfering notebook.
 
 **Secondly**, I have tried to perfom object detection using YOLOv3 model.
 
